@@ -1,5 +1,6 @@
 # Laravel CRUDアプリ
-https://takehubs.link/
+
+本番環境URL 　https://takehubs.link/
 
 Laravelで作成したシンプルなCRUDアプリです。
 CircleCIとAWS Code４兄弟によるCI/CDパイプラインの構築をしました。
