@@ -26,7 +26,9 @@ CircleCIとAWS Code４兄弟によるCI/CDパイプラインの構築をしま�
 
 ### CircleCIとAWS Code４兄弟によるCI/CDパイプライン　構成図
 CI/CDパイプラインをあらかじめ構築しておくことで、バグの発生を抑えつつ、アプリの機能追加、変更を1日に何回も本番環境にリリースすることが可能となりました。
-![472927dd-4a42-472d-96ed-77cdda6e28ae](https://user-images.githubusercontent.com/58723017/132625929-31f3402b-04c0-41f8-b6d4-d6570822e3e0.png)
+
+<img width="635" alt="スクリーンショット 2022-03-02 17 48 51" src="https://user-images.githubusercontent.com/58723017/156327632-dc940d83-9093-4d5f-9ec1-a87c731dc2ce.png">
+
 
 # AWS(インフラ)構成図
 ![名称未設定 drawio (1)](https://user-images.githubusercontent.com/58723017/132848710-460f3020-e3a4-4d4d-b150-b9edf919aaf3.png)
