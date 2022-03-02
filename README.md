@@ -1,5 +1,5 @@
 # Laravel CRUDアプリ
-https://takeuchi-portofolio.com/  
+https://takehubs.link/
 
 Laravelで作成したシンプルなCRUDアプリです。
 CircleCIとAWS Code４兄弟によるCI/CDパイプラインの構築をしました。
